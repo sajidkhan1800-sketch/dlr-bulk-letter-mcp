@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bulk-letter-mcp": {
+      "command": "python",
+      "args": ["C:\\PATH\\TO\\server.py"],
+      "description": "FDA DLR Bulk Letter MCP Server"
+    }
+  }
+}
